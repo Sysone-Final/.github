@@ -105,12 +105,57 @@
 
 ---
 
-
-  
 ## 💻 기술 스택
+<table>
+  <thead>
+    <tr>
+      <th>분류</th>
+      <th>기술 스택</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>프론트엔드</td>
+      <td>
+        <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+        <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+        <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=whitelor=white"/>
+        <img src="https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white"/>
+      </td>
+    </tr>
+    <tr>
+      <td>백엔드</td>
+      <td>
+        <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>
+        <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white"/>
+      </td>
+    </tr>
+    <tr>
+      <td>데이터베이스</td>
+      <td>
+        <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
+      </td>
+    </tr>
+    <tr>
+      <td>인프라</td>
+      <td>
+        <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white"/>
+        <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
+        <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white"/>
+        <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white"/>
+      </td>
+    </tr>
+    <tr>
+      <td>모니터링</td>
+      <td>
+        <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white"/>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-  <img width="1920" height="1080" alt="SERVERWAY (2)" src="https://github.com/user-attachments/assets/22c50762-b7f7-4251-8c5b-91079bbc8019" />
-  <img width="1920" height="1080" alt="SERVERWAY (4)" src="https://github.com/user-attachments/assets/d3717356-33ff-4ea5-9c51-b7e61f14985a" />
 
 ---
 
