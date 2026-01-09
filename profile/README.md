@@ -87,6 +87,11 @@
       <br>
       서버실 모니터링
     </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/6020cc8a-b347-4459-9f50-efcfe019a05d" alt="실시간 알림& 에러 시각화" height="300" />
+      <br>
+      실시간 알림& 에러 시각화
+    </td>
   </tr>
 </table>
 
